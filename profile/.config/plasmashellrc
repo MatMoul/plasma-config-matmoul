@@ -1,0 +1,16 @@
+[PlasmaViews][Panel 2]
+alignment=132
+
+[PlasmaViews][Panel 2][Horizontal1680]
+minLength=1656
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal640]
+thickness=30
+
+[ScreenConnectors]
+0=DVI-D-0
+1=HDMI-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

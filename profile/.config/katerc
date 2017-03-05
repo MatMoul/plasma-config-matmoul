@@ -1,0 +1,31 @@
+[General]
+Config Revision=10
+Days Meta Infos=30
+Last Session=
+Modified Notification=false
+Recent File List Entry Count=10
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+Startup Session=new
+
+[MainWindow]
+Height 1050=634
+Height 941=727
+State=AAAA/wAAAAD9AAAAAAAABF4AAAJcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1680=1118
+
+[Notification Messages]
+Kate hide sidebars notification message=false
+
+[filetree]
+editShade=33,84,111
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=66,73,74

@@ -1,0 +1,7 @@
+[ActiveShadow]
+InnerColor=166,166,166
+OuterColor=63,63,63
+
+[Windeco]
+ButtonSize=ButtonSmall
+TitleAlignment=AlignLeft
